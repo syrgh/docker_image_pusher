@@ -1,3 +1,4 @@
 nginx
 nyanmisaka/jellyfin
 wiznote/wizserver
+dockette/jdk8
